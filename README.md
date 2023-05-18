@@ -1,2 +1,2 @@
 # SimpleMenu
-a simple python menu for cli projects
+A simple python menu for any cli
